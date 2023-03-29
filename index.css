@@ -11,6 +11,9 @@ h3 {
     line-height: 20px;
     color: #5A537B;
 }
+h1 {
+    color: firebrick;
+}
 
 
 .hero {
