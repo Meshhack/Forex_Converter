@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    
+}
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #5A537B;
+}
+
+
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.section {
+    background: white;
+    padding: 0px;
+    border-radius: 10px ;
+}
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #353535;
+}
